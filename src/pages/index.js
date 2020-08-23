@@ -5,7 +5,7 @@ const Index = () => {
   return (
     <Layout>
       <h1>Home page</h1>
-      <h2>I'm Ibas, a teacher and a Gatsby.js developer</h2>
+      <h2>Lorem Ipsum</h2>
     </Layout>
   )
 }
